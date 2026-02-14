@@ -4,7 +4,7 @@
 Tikslas: parengti AIS duomenis tolimesnei tyrybai ir ištirti bendras tendencijas apie laivų tipus trajektorijų atžvilgiu.
 
 Užduotys:
- - išfiltruoti laivus, kurių trajektorijos yra dominančiame geografiniame regione;
+ - atsirinkti laivų, kurių trajektorijos yra dominančiame geografiniame regione, poaibį;
 
 Etapai:
 1. Grupėje išdiskutuoti, kokiu pjūviu darysite analizę.  Aprašyti užduoties tikslą ir uždavinius. 
