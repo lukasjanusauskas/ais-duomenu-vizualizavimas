@@ -6,7 +6,7 @@ Tikslas: parengti AIS duomenis tolimesnei tyrybai ir ištirti bendras tendencija
 Užduotys:
  - atsirinkti laivų, kurių trajektorijos yra dominančiame geografiniame regione, poaibį;
  - atpažinti ir išskirti laivus-anomalijas pagal AIS duomenyse turimus kintamuosius;
- - tarpusavyje palyginti laivų kategorijas, pagal laivų judėjimo greitį, sukimosi greitį ir kitus kintamuosius.
+ - tarpusavyje palyginti laivų kategorijas pagal laivų judėjimo greitį, sukimosi greitį ir kitus kintamuosius.
 
 Etapai:
 1. Grupėje išdiskutuoti, kokiu pjūviu darysite analizę.  Aprašyti užduoties tikslą ir uždavinius. 
