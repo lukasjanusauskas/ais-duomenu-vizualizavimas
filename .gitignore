@@ -224,3 +224,5 @@ path1.png
 path2.png
 .DS_Store
 corr_plot.png
+trajectory_map.html
+plots/1lab/corr-matrices.png
