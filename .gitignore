@@ -224,25 +224,5 @@ sequences
 1Lab.ipynb
 map.ipynb
 Paskaitų medžiaga-20260301
-
-a.ipynb
-learningrate_iris.png
-metric_iris.png
-neighbors_ellipsoid.png
-mindist_iris.png
-neighbors_swiss.png
-neighbors_iris.png
-nepochs_iris.png
-learningrate_ellipsoid.png
-learningrate_mnist.png
-learningrate_swiss.png
-metric_ellipsoid.png
-metric_mnist.png
-metric_swiss.png
-mindist_ellipsoid.png
-mindist_mnist.png
-mindist_swiss.png
-neighbors_mnist.png
-nepochs_ellipsoid.png
-nepochs_mnist.png
-nepochs_swiss.png
+test.ipynb
+/plots
