@@ -231,3 +231,4 @@ sequences
 trajectory_map.html
 plots/corr-matrices.png
 4 Lab/trajectories_npy.html
+4 Lab/plots/knn_feature_importance.svg
